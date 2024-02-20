@@ -1,0 +1,45 @@
+form{
+    background-color:rgb(164, 252, 0);;
+    margin-top: 50px;
+    align-items: center;
+    align-content: center;
+    margin-left: 25%;
+    width: 50%;
+    backdrop-filter: blur(5px);
+    padding: 30px 20px;
+    
+    padding:10px;
+    padding-top: 5%;
+    padding-bottom: 5%;
+   
+    border-radius: 9%;
+    height: auto;
+}
+.fo{ 
+    text-align: center;
+    margin-left: 40%;
+    line-height: 20px;
+    border-radius: 5px;
+    border: 0px transparent;
+    padding: 8px 10px;
+}
+.fo:hover{
+    border-color:black;
+}
+
+.fo1{
+    text-align: center;
+    margin-left: 48%;
+    
+   
+    line-height: 20px;
+    border-radius: 5px;
+    border: 0px transparent;
+    padding: 8px 10px;
+    
+    
+}
+.fo1:hover{
+    background-color: rgb(212, 255, 131);
+    
+}

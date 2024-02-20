@@ -1,0 +1,37 @@
+.lo{
+    text-align: center;
+    
+}
+.lo1{
+    text-align: center;
+    font-size:xx-large
+
+    
+}
+
+.lolo{
+    padding: 1%;
+
+}
+.lolo1{
+    padding:1%;
+    
+
+}
+.lolo1:hover{
+    background-color: rgba(15, 117, 131, 0.87);
+    color: black;
+    
+    
+
+}
+.logout{
+    background: none;
+    border: none;
+    background-color: rgb(218, 124, 124);
+    
+
+}
+.logout:hover{
+    background-color: rgb(255, 0, 0);
+}
